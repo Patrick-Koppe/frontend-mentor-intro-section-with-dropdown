@@ -1,0 +1,17 @@
+@import './color.scss';
+@import './font.scss';
+
+body {
+    background: $almostWhite;
+    color: $mediumGray;
+    font-size: 18px;
+    line-height: 1.55;
+    font-weight: 500;
+}
+
+h1 {
+    color: $almostBlack;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 1;
+}
